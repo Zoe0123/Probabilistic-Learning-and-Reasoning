@@ -12,4 +12,4 @@ Decision Theory, Naive Bayes, Regression
 ### Grade:
 Image denoising by the loopy BP algorithm and Hamiltonian Monte Carlo in the TrueSkill model
 
-### Ongoing course and assginments. Implementation inluding other assignments will be released later.
+### Ongoing course and assginments. Implementation including other assignments will be released later.

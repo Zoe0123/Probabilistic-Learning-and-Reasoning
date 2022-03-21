@@ -9,7 +9,7 @@ Decision Theory, Naive Bayes, Regression
 
 ## [Assignment 2](https://colab.research.google.com/drive/1pO3FL9ijLfhhOS7phslmpRyfYAkLQiZF?usp=sharing)
 ### [Implementation]()
-### Grade:
+### Grade: 98/100
 Image denoising by the loopy BP algorithm and Hamiltonian Monte Carlo in the TrueSkill model
 
 ### Ongoing course and assginments. Implementation including other assignments will be released later.

@@ -1,17 +1,13 @@
 # Probabilistic-Learning-and-Reasoning
 
-## [Assignment 1](https://colab.research.google.com/drive/1owRqhJVz07ab3WRoylwaImgvlohRIImn?usp=sharing)
+## 1 Decision Theory, Naive Bayes, Regression
 ### [Implementation](https://github.com/Zoe0123/Decision-Theory-and-Naive-Bayes-and-Regression)
-Decision Theory, Naive Bayes, Regression
 
-## [Assignment 2](https://colab.research.google.com/drive/1pO3FL9ijLfhhOS7phslmpRyfYAkLQiZF?usp=sharing)
+## 2 Image denoising by the loopy BP algorithm and Hamiltonian Monte Carlo in the TrueSkill model
 ### [Implementation](https://github.com/Zoe0123/loopy-BP-and-Monte-Carlo)
-Image denoising by the loopy BP algorithm and Hamiltonian Monte Carlo in the TrueSkill model
 
-## [Assignment 3](https://colab.research.google.com/drive/1qmTcZnl0htuDIhb-I3Oc9rGAbtL7PZev?usp=sharing)
+## 3 Stochastic Variational Inference. Expectation-Maximization (EM) algorithm
 ### [Implementation](https://github.com/Zoe0123/Variational-Inference-and-EM-algorithm)
-Stochastic Variational Inference. Expectation-Maximization (EM) algorithm
 
-## [Assignment 4](https://colab.research.google.com/drive/1VIPUt0dXMOr1T3rNKKIR2WJ9Au8mK66B?usp=sharing)
+## 4 Variational Autoencoders
 ### [Implementation](https://github.com/Zoe0123/Variational-Autoencoders)
-Variational Autoencoders

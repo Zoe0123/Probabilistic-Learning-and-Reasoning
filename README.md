@@ -1,7 +1,5 @@
 # Probabilistic-Learning-and-Reasoning
 
-Individual Assginments for [UofT CSC412/2506: Probabilistic Learning and Reasoning](https://erdogdu.github.io/csc412/). 
-
 ## [Assignment 1](https://colab.research.google.com/drive/1owRqhJVz07ab3WRoylwaImgvlohRIImn?usp=sharing)
 ### [Implementation](https://github.com/Zoe0123/Decision-Theory-and-Naive-Bayes-and-Regression)
 Decision Theory, Naive Bayes, Regression
